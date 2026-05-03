@@ -10,7 +10,7 @@ A responsive X (Twitter) interface clone built using HTML and CSS.
 
 ### 💻 Desktop View
 
-![Desktop](screenshots/1.jpg)
+![Desktop](screenshots/1.png)
 
 
 ## ✨ Features
