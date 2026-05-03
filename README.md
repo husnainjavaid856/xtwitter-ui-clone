@@ -12,11 +12,6 @@ A responsive X (Twitter) interface clone built using HTML and CSS.
 
 ![Desktop](screenshots/1.jpg)
 
-### 📱 Mobile View
-
-![Mobile](screenshots/2.jpg)
-
----
 
 ## ✨ Features
 
@@ -37,8 +32,11 @@ A responsive X (Twitter) interface clone built using HTML and CSS.
 ## 📁 Project Structure
 
 * `assets/` → images & icons
-* `styles/` → CSS files
+* `xtwitter-ui-clone/` → CSS file
 * `screenshots/` → project images
+* `xtwitter-ui-clone/` → index.html
+* `xtwitter-ui-clone/` → following.html
+
 
 ---
 
