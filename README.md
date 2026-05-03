@@ -43,7 +43,7 @@ A responsive X (Twitter) interface clone built using HTML and CSS.
 ## ⚙️ How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/xtwitter-clone.git
+   git clone https://github.com/husnainjavaid856/xtwitter-ui-clone.git
 
 2. Open `index.html` in your browser
 
