@@ -134,6 +134,12 @@ dist
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
+node_modules/
+.env
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
 !.yarn/sdks
 !.yarn/versions
 
